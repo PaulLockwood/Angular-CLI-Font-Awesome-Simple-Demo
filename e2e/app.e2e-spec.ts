@@ -1,6 +1,6 @@
 import { FaTestPage } from './app.po';
 
-describe('fa-test App', function() {
+describe('fa-test App', () => {
   let page: FaTestPage;
 
   beforeEach(() => {
